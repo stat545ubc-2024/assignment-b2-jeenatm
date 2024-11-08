@@ -1,6 +1,6 @@
 Package: mm.in
 Title: Convert Measurements from Millimeters to Inches
-Version: 0.0.1
+Version: 0.1.0
 Authors@R: 
     person("Jeenat", "Mehareen", , "jeenatm@student.ubc.ca", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-6991-8213"))
