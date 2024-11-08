@@ -11,7 +11,7 @@ The goal of mm.in is to convert measurement units of milimeters (mm) to inches (
 You can install the development version of mm.in from [Github] (https://github.com/) with
 
 ```{r}
-devtools::install_github("https://github.com/stat545ubc-2024/assignment-b2-jeenatm.git")
+devtools::install_github("https://github.com/stat545ubc-2024/assignment-b2-jeenatm")
 ```
 
 ## Examples
@@ -22,6 +22,5 @@ library(mm.in)
 
 mm_to_in(25.4) # Should return 1
 mm_to_in(c(25.4, 127)) # Should return 1 and 5
-mm_to_in(NA) # Should return NA
 
 ```
