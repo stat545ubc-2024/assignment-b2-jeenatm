@@ -15,7 +15,7 @@
 
 mm_to_in <- function(mm) {
   # Check if the input is numeric; throw an error if not
-  if (!is.numeric(mm)) {
+  if (!is.numeric(mm) && !all(is.na(mm))) {
     stop("Input must be a numeric vector, measurements must be in mm")
   }
 

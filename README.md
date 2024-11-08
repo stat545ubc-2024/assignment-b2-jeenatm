@@ -20,7 +20,7 @@ devtools::install_github("https://github.com/stat545ubc-2024/assignment-b2-jeena
     ## Downloading GitHub repo stat545ubc-2024/assignment-b2-jeenatm@HEAD
 
     ## ── R CMD build ─────────────────────────────────────────────────────────────────
-    ##       ✔  checking for file 'C:\Users\jeena\AppData\Local\Temp\RtmpsVKser\remotes2e144dc3e13\stat545ubc-2024-assignment-b2-jeenatm-24dea350b34ad98749e8da8782349eb1085a6b87/DESCRIPTION'
+    ##       ✔  checking for file 'C:\Users\jeena\AppData\Local\Temp\RtmpyezAkh\remotes58a433ed102\stat545ubc-2024-assignment-b2-jeenatm-7fb18b7badfdab8780ef858967a18706cfcfb6b8/DESCRIPTION'
     ##       ─  preparing 'mm.in':
     ##    checking DESCRIPTION meta-information ...     checking DESCRIPTION meta-information ...   ✔  checking DESCRIPTION meta-information
     ##       ─  checking for LF line-endings in source and make files and shell scripts
@@ -29,7 +29,7 @@ devtools::install_github("https://github.com/stat545ubc-2024/assignment-b2-jeena
     ##      
     ## 
 
-    ## Installing package into 'C:/Users/jeena/AppData/Local/R/win-library/4.4'
+    ## Installing package into 'C:/Users/jeena/AppData/Local/Temp/RtmpAnkTbL/temp_libpath32706dda6142'
     ## (as 'lib' is unspecified)
 
 ## Examples
