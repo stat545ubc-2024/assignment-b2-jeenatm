@@ -1,12 +1,11 @@
 Package: mm.in
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Convert Measurements from Millimeters to Inches
+Version: 0.0.1
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Jeenat", "Mehareen", , "jeenatm@student.ubc.ca", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-6991-8213"))
+Description: A simple package that provides a function to convert measurements from millimeters (mm) to inches. It is designed to handle numeric input, the package helps with quick conversions and ideal for any applications or projects that require standardized unit conversions.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
