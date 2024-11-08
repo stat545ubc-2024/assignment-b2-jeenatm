@@ -17,8 +17,20 @@ devtools::install_github("https://github.com/stat545ubc-2024/assignment-b2-jeena
 
     ## Using GitHub PAT from the git credential store.
 
-    ## Skipping install of 'mm.in' from a github remote, the SHA1 (7281e0a2) has not changed since last install.
-    ##   Use `force = TRUE` to force installation
+    ## Downloading GitHub repo stat545ubc-2024/assignment-b2-jeenatm@HEAD
+
+    ## ── R CMD build ─────────────────────────────────────────────────────────────────
+    ##       ✔  checking for file 'C:\Users\jeena\AppData\Local\Temp\RtmpsVKser\remotes2e144dc3e13\stat545ubc-2024-assignment-b2-jeenatm-24dea350b34ad98749e8da8782349eb1085a6b87/DESCRIPTION'
+    ##       ─  preparing 'mm.in':
+    ##    checking DESCRIPTION meta-information ...     checking DESCRIPTION meta-information ...   ✔  checking DESCRIPTION meta-information
+    ##       ─  checking for LF line-endings in source and make files and shell scripts
+    ## ─  checking for empty or unneeded directories
+    ##       ─  building 'mm.in_0.0.1.tar.gz'
+    ##      
+    ## 
+
+    ## Installing package into 'C:/Users/jeena/AppData/Local/R/win-library/4.4'
+    ## (as 'lib' is unspecified)
 
 ## Examples
 
